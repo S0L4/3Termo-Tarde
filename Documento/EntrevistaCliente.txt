@@ -1,0 +1,22 @@
+Peguntas
+
+1-Serão pacotes nacionais e internacionais?
+Sim (Principais destinhos: América do Norte, Europa)
+
+2-Os pacotes possuiram diferentes combos como Hotel+Aéreo ou somente Aéreo?
+Pacotes já estão feitos.
+
+3-A empresa possui alguma parceria?
+Sim, com empresas em outros países.
+	
+4-A empresa possui alguma rede social para a divulgação?
+Ja possui um departamento de marketing?
+
+5-A empresa já possui um desing em mente? (cores, logo, etc)
+Se achar necesário fazer mudanças.
+
+
+Aplicativos como referencia: Boocking, expedia
+WEB: É necessário a parte da administração (Sistema: Login e Administração).
+MOBILE: Listagem dos pacotes ativos e os botões de marcar a viagem por telefone ou email.
+Pagamento: Dinheiro, boleto e cartão
